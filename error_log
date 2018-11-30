@@ -1,0 +1,105 @@
+[17-Sep-2018 01:00:45 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:00:47 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:00:49 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:00:50 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:01:00 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:01:08 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:01:09 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:01:10 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:01:34 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:01:36 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[17-Sep-2018 01:01:37 UTC] PHP Parse error:  syntax error, unexpected '"D"' (T_CONSTANT_ENCAPSED_STRING) in /home/cwdcth36/public_html/index.php on line 65
+[25-Sep-2018 02:41:01 UTC] PHP Parse error:  syntax error, unexpected '$missingUsername' (T_VARIABLE) in /home/cwdcth36/public_html/signup.php on line 8
+[25-Sep-2018 02:55:52 UTC] PHP Parse error:  syntax error, unexpected '$missingUsername' (T_VARIABLE) in /home/cwdcth36/public_html/signup.php on line 8
+[25-Sep-2018 02:56:23 UTC] PHP Parse error:  syntax error, unexpected '$missingUsername' (T_VARIABLE) in /home/cwdcth36/public_html/signup.php on line 8
+[25-Sep-2018 03:05:17 UTC] PHP Parse error:  syntax error, unexpected '$missingUsername' (T_VARIABLE) in /home/cwdcth36/public_html/signup.php on line 8
+[26-Sep-2018 00:23:33 UTC] PHP Parse error:  syntax error, unexpected '$missingUsername' (T_VARIABLE) in /home/cwdcth36/public_html/signup.php on line 8
+[26-Sep-2018 00:27:10 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 00:35:41 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 00:35:44 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 00:36:08 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 01:56:05 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 01:59:34 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 02:16:43 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 02:17:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 02:20:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 02:24:27 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 02:27:18 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/cwdcth36/public_html/signup.php on line 27
+[26-Sep-2018 02:41:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cwdcth36/public_html/connection.php on line 3
+[26-Sep-2018 02:41:48 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/cwdcth36/public_html/connection.php on line 4
+[26-Sep-2018 02:41:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cwdcth36/public_html/connection.php on line 3
+[26-Sep-2018 02:41:52 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/cwdcth36/public_html/connection.php on line 4
+[26-Sep-2018 02:44:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cwdcth36/public_html/connection.php on line 3
+[26-Sep-2018 02:44:44 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/cwdcth36/public_html/connection.php on line 4
+[28-Sep-2018 00:42:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cwdcth36/public_html/connection.php on line 3
+[28-Sep-2018 00:42:51 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/cwdcth36/public_html/connection.php on line 4
+[28-Sep-2018 00:45:00 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/cwdcth36/public_html/connection.php on line 4
+[10-Oct-2018 20:35:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:35:29 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:35:43 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:35:43 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:36:10 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:36:11 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:37:52 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:37:52 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:01 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:01 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:03 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:04 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:10 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:11 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:13 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:13 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:13 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:14 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:18 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:18 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:26 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:27 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:27 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:28 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:29 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:29 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:29 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 20:38:29 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:01:18 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:01:19 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:35 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:36 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:36 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:36 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:36 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:36 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:37 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:37 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:37 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:37 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:37 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:37 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:37 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:37 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:38 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:38 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:54 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:54 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:56 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[10-Oct-2018 21:02:57 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/cwdcth36/public_html/login.php on line 10
+[17-Oct-2018 01:41:28 UTC] PHP Warning:  include(rememberme.php): failed to open stream: No such file or directory in /home/cwdcth36/public_html/index.php on line 7
+[17-Oct-2018 01:41:28 UTC] PHP Warning:  include(rememberme.php): failed to open stream: No such file or directory in /home/cwdcth36/public_html/index.php on line 7
+[17-Oct-2018 01:41:28 UTC] PHP Warning:  include(): Failed opening 'rememberme.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cwdcth36/public_html/index.php on line 7
+[17-Oct-2018 01:42:02 UTC] PHP Warning:  include(rememberme.php): failed to open stream: No such file or directory in /home/cwdcth36/public_html/index.php on line 7
+[17-Oct-2018 01:42:02 UTC] PHP Warning:  include(rememberme.php): failed to open stream: No such file or directory in /home/cwdcth36/public_html/index.php on line 7
+[17-Oct-2018 01:42:02 UTC] PHP Warning:  include(): Failed opening 'rememberme.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cwdcth36/public_html/index.php on line 7
+[17-Oct-2018 01:48:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cwdcth36/public_html/resetpassword.php:4) in /home/cwdcth36/public_html/resetpassword.php on line 5
+[17-Oct-2018 01:48:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cwdcth36/public_html/storeresetpassword.php:3) in /home/cwdcth36/public_html/storeresetpassword.php on line 4
+[17-Oct-2018 01:48:57 UTC] PHP Warning:  include(rememberme.php): failed to open stream: No such file or directory in /home/cwdcth36/public_html/index.php on line 7
+[17-Oct-2018 01:48:57 UTC] PHP Warning:  include(rememberme.php): failed to open stream: No such file or directory in /home/cwdcth36/public_html/index.php on line 7
+[17-Oct-2018 01:48:57 UTC] PHP Warning:  include(): Failed opening 'rememberme.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cwdcth36/public_html/index.php on line 7
